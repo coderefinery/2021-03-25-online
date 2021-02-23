@@ -61,7 +61,7 @@ advance, or b) verify with your team's helper before the workshop.**
 ### Schedule
 
 All times are in **Europe/Stockholm time** 
-[Time converter](https://arewemeetingyet.com/Stockholm/2020-11-17/09:00/CodeRefinery)
+[Time converter](https://arewemeetingyet.com/Stockholm/2021-04-13/09:00/CodeRefinery)
 
 The schedule includes frequent breaks.
 
