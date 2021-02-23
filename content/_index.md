@@ -3,7 +3,7 @@ title = "CodeRefinery workshop"
 +++
 
 
-### Dates, 2020
+### Dates, 2021 April 13-15 and 2021 April 20-22
 
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 
@@ -60,57 +60,64 @@ advance, or b) verify with your team's helper before the workshop.**
 
 ### Schedule
 
-Day 1
-- 9:00 - 9:30
+All times are in **Europe/Stockholm time** 
+[Time converter](https://arewemeetingyet.com/Stockholm/2020-11-17/09:00/CodeRefinery)
+
+The schedule includes frequent breaks.
+
+
+**Day 1 (April 13, Tue)**
+- 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
-- 9:30 - 12:00
-  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 15:00
-  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/)
-  (TBA)
-- 15:30 - 17:00
-  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
-  (TBA)
+  ()
+- 9:20 - 12:00
+  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
+  ()
 
-Day 2
-- 9:00 - 10:30
-  [Modular code development](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md)
-  (TBA)
-- 11:00 - 12:00
-  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 14:30
-  [Collaborative distributed version control 2/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-- 15:00-17:00
+
+**Day 2 (April 14, Wed)**
+- 9:00 - 12:00
+  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
+  ()
+
+
+**Day 3 (April 15, Thu)**
+- 9:00 - 12:00
+  [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
+  ()
+
+
+**Day 4 (April 20, Tue)**
+- 9:00 - 9:15
+  [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
+  ()
+- 9:00 - 11:00
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
-  (TBA)
-
-Day 3
-- 9:00 - 10:30
-  [Documentation](https://coderefinery.github.io/documentation/)
-  (TBA)
+  ()
 - 11:00 - 12:00
-  [Automated testing part 1/2](https://coderefinery.github.io/testing/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 14:00
-  [Automated testing part 2/2](https://coderefinery.github.io/testing/)
-  (TBA)
-- 14:30 - 16:30
-  [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
-- 16:30 - 17:00
-  [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (TBA)
+  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
+  ()
 
+
+**Day 5 (April 21, Wed)**
+- 9:00 - 10:30
+  [Jupyter](https://coderefinery.github.io/jupyter/)
+  ()
+- 10:30 - 12:00 
+  [Documentation](https://coderefinery.github.io/documentation/)
+  ()
+
+
+**Day 6 (April 22, Thu)**
+- 9:00 - 10:30
+  [Automated testing](https://coderefinery.github.io/testing/)
+  ()
+- 10:45 - 11:45
+  [Modular code development](https://coderefinery.github.io/modular-type-along/)
+  ()
+- 11:45 - 12:00
+  [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
+  ()
 
 ### Location
 
