@@ -23,8 +23,8 @@ practices rather than covering all the basics on Git.
 ### Software requirements
 
 You need access to a UNIX terminal with Git installed and configured to follow this course.
-In addition you need an account on https://scm.uninett.no/. If you do not have one please
-contact sigma2 as soon as possible to get one. 
+In addition you need an account on [https://scm.uninett.no/](https://scm.uninett.no/).
+If you do not have one please contact sigma2 as soon as possible to get one. 
 
 - [Git](https://coderefinery.github.io/installation/git/), including
   some **configuration**
