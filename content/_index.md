@@ -3,7 +3,7 @@ title = "CodeRefinery workshop"
 +++
 
 
-### Dates, 2021  13-15 and 2021 April 20-22
+### Dates, 2021 March 25 and 2021 April 08
 
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Only for invited atendees</a>
 
