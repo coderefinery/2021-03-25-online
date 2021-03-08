@@ -45,13 +45,17 @@ The schedule includes frequent breaks.
 **Day 1 (March 25 , Thursday)**
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-- 9:20 - 12:00
-  [Introduction to version control with GitLab]
+- 9:20 - 10:00
+  [Introduction to version control with GitLab on web]
+- 10:15 - 12:00
+  [Introduction to version control with GitLab on terminal]
 
 
 **Day 2 (April 08, Thursday)**
-- 9:00 - 12:00
-  [Best practices]
+- 9:00 - 10:00
+  [Best practices when using GitLab]
+- 10:15 - 12:00
+  [Group exercise]
 
 
 ### Location
@@ -66,12 +70,15 @@ This is course is designed for the Metacenter participants
 ### What we will not teach
 
 This is not a course about a specific programming language or
-the Linux/Unix terminal shell. Basic Git knowledge recommended 
-but not required 
+the Linux/Unix terminal shell. 
+
 
 
 ### Prerequisites
-
+- Basic Git knowledge recommended but not required. We will start from
+  the basics anyway, but please go through
+  [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
+  for a basic overview and important configuration steps.
 - You should be able to navigate the file tree in a terminal session and edit
   text files in the terminal.
   [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
