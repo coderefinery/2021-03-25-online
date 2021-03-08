@@ -3,9 +3,9 @@ title = "CodeRefinery workshop"
 +++
 
 
-### Dates, 2021 April 13-15 and 2021 April 20-22
+### Dates, 2021  13-15 and 2021 April 20-22
 
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
+<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Only for invited atendees</a>
 
 
 ### Price
@@ -15,16 +15,10 @@ Free of charge, funded by the [Nordic e-Infrastructure Collaboration](https://ne
 
 ### Course goals and format
 
-In this course, you will become familiar with tools and best practices
-for version control in modern research software development. The main
-focus is on using Git for efficiently writing and maintaining research
-software.  We don't teach programming, but we teach the tools you need
-to use programming well.
-
-This is an informal and interactive event with type-along type
-of presentations, live coding, and demos. Short tutorials alternate
-with practical exercises.
-
+The aim of this course is to provide the basic Git knowledge necessary for the Metacenter
+contributors. The focus will be on solving certain routine tasks based around GitLab and
+learning tips and tricks along the way. We shall focus on how to get things done and best
+practices rather than covering all the basics on Git.  
 
 ### Software requirements
 
