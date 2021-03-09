@@ -1,5 +1,5 @@
 +++
-title = "CodeRefinery workshop"
+title = "CodeRefinery workshop with focus on Git and GitLab"
 +++
 
 
