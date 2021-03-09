@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coderefinery.github.io/2021-03-25-online/sitemap.xml
