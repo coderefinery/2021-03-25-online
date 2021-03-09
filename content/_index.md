@@ -3,9 +3,9 @@ title = "CodeRefinery workshop"
 +++
 
 
-### Dates, 2021 March 25 and 2021 April 08
+### March 25 and April 8, 2021 (9-12 CET)
 
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Only for invited atendees</a>
+<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Only for invited attendees</a>
 
 
 ### Price
@@ -15,47 +15,48 @@ Free of charge, funded by the [Nordic e-Infrastructure Collaboration](https://ne
 
 ### Course goals and format
 
-The aim of this course is to provide the basic Git knowledge necessary for the Metacenter
-contributors. The focus will be on solving certain routine tasks based around GitLab and
+The aim of this course is to provide the basic Git knowledge necessary for Sigma2/Metacenter
+staff. The focus will be on solving certain routine tasks based around GitLab and
 learning tips and tricks along the way. We shall focus on how to get things done and best
-practices rather than covering all the basics on Git.  
+practices rather than covering all the basics on Git.
 
-### Software requirements
+
+### Software requirements and prerequisites
 
 You need access to a UNIX terminal with Git installed and configured to follow this course.
 In addition you need an account on [https://scm.uninett.no/](https://scm.uninett.no/).
-If you do not have one please contact sigma2 as soon as possible to get one. 
+If you do not have one please contact one of the instructors as soon as possible to get one.
 
 - [Git](https://coderefinery.github.io/installation/git/), including
   some **configuration**
 - [(optional) Visual diff tools](https://coderefinery.github.io/installation/difftools/)
-
-**You should either a) drop by one of our verification sessions in
-advance, or b) verify with your team's helper before the workshop.**
+- Basic Git knowledge recommended but not required. We will start from
+  the basics anyway, but please go through
+  [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
+  for a basic overview and important configuration steps.
 
 
 ### Schedule
 
-All times are in **Europe/Stockholm time** 
-[Time converter](https://arewemeetingyet.com/Oslo/2021-03-25/09:00/CodeRefinery)
+All times are in CET. The schedule includes frequent breaks.
 
-The schedule includes frequent breaks.
-
-
-**Day 1 (March 25 , Thursday)**
+**Day 1 (March 25, Thursday)**
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
 - 9:20 - 10:00
-  [Introduction to version control with GitLab on web]
-- 10:15 - 12:00
-  [Introduction to version control with GitLab on terminal]
+  Introduction to version control with GitLab using the web interface
+- 10:15 - 11:00
+  Working with branches
+- 11:15 - 11:00
+  Merge requests and code review
 
-
-**Day 2 (April 08, Thursday)**
+**Day 2 (April 8, Thursday)**
 - 9:00 - 10:00
-  [Best practices when using GitLab]
-- 10:15 - 12:00
-  [Group exercise]
+  Merge requests and code review revisited
+- 10:15 - 11:00
+  Group exercises
+- 11:15 - 12:00
+  Project organization, DevOps, discussions, questions and answers
 
 
 ### Location
@@ -63,27 +64,6 @@ The schedule includes frequent breaks.
 The workshop will be held online, participant links will be sent to
 registered participants.
 
-
-### Who the course is for
-This is course is designed for the Metacenter participants 
-
-### What we will not teach
-
-This is not a course about a specific programming language or
-the Linux/Unix terminal shell. 
-
-
-
-### Prerequisites
-- Basic Git knowledge recommended but not required. We will start from
-  the basics anyway, but please go through
-  [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
-  for a basic overview and important configuration steps.
-- You should be able to navigate the file tree in a terminal session and edit
-  text files in the terminal.
-  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
-  ([video](https://youtu.be/56p6xX0aToI))
-  contains the essentials.
 
 ### Instructors
 
@@ -97,12 +77,9 @@ the Linux/Unix terminal shell.
 helpers](https://coderefinery.github.io/manuals/helping-and-teaching/)).
 - TBA
 
-### Contact
-
-support@coderefinery.org
-
 
 ## Questions, answers, and feedback
+
 Please use the [collaborative document for comments and quetions](https://hackmd.io/xJzF5knES0uqDeTlp8MR0A?view)
 
 <!--* [Day 1 questions and notes]({{ site.baseurl }}/hackmd-day1/)-->
